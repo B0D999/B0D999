@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @B0D999
-- 👀 I’m interested in Python web development
-- 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - bog2003izh@gmail.com
-
+My name is Bogdan Klekovkin, sometimes I push here my projects, if you like what I do and you want to work with my, send me an email on bog2003izh@gmail.com
